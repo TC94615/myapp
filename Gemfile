@@ -52,3 +52,4 @@ gem 'whenever', require: false
 gem 'sidekiq'
 
 gem 'grape'
+gem 'hashie-forbidden_attributes'
