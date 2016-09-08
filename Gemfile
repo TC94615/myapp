@@ -50,3 +50,5 @@ gem 'rails_12factor', group: :production
 gem 'whenever', require: false
 
 gem 'sidekiq'
+
+gem 'grape'
