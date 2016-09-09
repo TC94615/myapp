@@ -53,3 +53,5 @@ gem 'sidekiq'
 
 gem 'grape'
 gem 'hashie-forbidden_attributes'
+
+gem 'devise'
